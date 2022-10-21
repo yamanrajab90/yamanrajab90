@@ -26,6 +26,7 @@ I am a dreamer, changer, reader, optimizer, dot connector, and 'I am Something o
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
@@ -43,3 +44,4 @@ I am a dreamer, changer, reader, optimizer, dot connector, and 'I am Something o
 5. Empire kitchens & appliance [e-commerce website](https://www.empireappliances.co.uk/)( I was responsible for creating APIs that will communicate with the Angular.js cleint side) 
 6. I worked on the development of the global e-commerce website [Semirames](https://semirames.com/).(Technologies used: PhP, CodeIgniter, Bootstrap, JQuery)
 7. I worked on the development of the travel and tourism services websit [Sirb Trips](https://sirbtrips.com/). (Technologies used:Laravel, Angular.js, SQL)
+8. I worked on the development of the payments solutions website [GoCard](https://www.gocardi.com). (Technologies used: Laravel, Bootstrap, AWS)
