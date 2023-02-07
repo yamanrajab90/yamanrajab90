@@ -39,11 +39,12 @@ I am a dreamer, changer, reader, optimizer, dot connector, and 'I am Something o
 ### Projects That I Was Part Of ...
 1. I was part of the team that created and developed the backend side of the fastest grwoing gaming website in the middle east [La3eb](https://la3eb.com/en-sa). ( Technologies used: Node.js, next.js, Jenkins, React, Redis , Elastic Search, Rabitt MQ, CI/CD, Docker, AWs, MongoDB)
 2. I was part of the team that created and developed the backend side of [Mashro3 Tabkha](https://www.mashrou3-tabkha.com/). ( Technologies used: Node.js, Next.js, Jenkins,  Elastic Search, AWS, Docker, CI/CD)
-3. I was part of developing the PR Agency website [Rebeltech](https://www.rebeltech.io/). ( Technologies used: Node.js, Next.js, Express, React, Redis , MongoDB, Jenkins AWS) 
-4.  I was part of developing the Brand experience studio [Six](https://www.six.agency/). ( Technologies used: Node.js, Next.js, Express, React, AWS ) 
-5. I worked on the development of the biggest stock trading & and news in saudi arabia [argaam](https://www.argaam.com/). ( Technologies used:ASP.NET, Vue.js, JQuery, AWS)
-6. KAS Construction [Website](http://kasconstructions.com/)(I workd on developing their website structure and adding new sections).
-7. Empire kitchens & appliance [e-commerce website](https://www.empireappliances.co.uk/)( I was responsible for creating APIs that will communicate with the Angular.js cleint side) 
-8. I worked on the development of the global e-commerce website [Semirames](https://semirames.com/).(Technologies used: PhP, CodeIgniter, Bootstrap, JQuery)
-9. I worked on the development of the travel and tourism services websit [Sirb Trips](https://sirbtrips.com/). (Technologies used:Laravel, Angular.js, SQL)
-10. I worked on the development of the payments solutions website [GoCard](https://www.gocardi.com). (Technologies used: Laravel, Bootstrap, AWS)
+3. I was part of developing the fastest delivery service in UAE  [Quiqup](https://www.quiqup.com/). ( Technologies used: Node.js, Next.js, Express, React,CI/CD, Docker, AWs, MongoDB ) 
+4. I was part of developing the PR Agency website [Rebeltech](https://www.rebeltech.io/). ( Technologies used: Node.js, Next.js, Express, React, Redis , MongoDB, Jenkins AWS) 
+5.  I was part of developing the Brand experience studio [Six](https://www.six.agency/). ( Technologies used: Node.js, Next.js, Express, React, AWS ) 
+6. I worked on the development of the biggest stock trading & and news in saudi arabia [argaam](https://www.argaam.com/). ( Technologies used:ASP.NET, Vue.js, JQuery, AWS)
+7. KAS Construction [Website](http://kasconstructions.com/)(I workd on developing their website structure and adding new sections).
+8. Empire kitchens & appliance [e-commerce website](https://www.empireappliances.co.uk/)( I was responsible for creating APIs that will communicate with the Angular.js cleint side) 
+9. I worked on the development of the global e-commerce website [Semirames](https://semirames.com/).(Technologies used: PhP, CodeIgniter, Bootstrap, JQuery)
+10. I worked on the development of the travel and tourism services websit [Sirb Trips](https://sirbtrips.com/). (Technologies used:Laravel, Angular.js, SQL)
+11. I worked on the development of the payments solutions website [GoCard](https://www.gocardi.com). (Technologies used: Laravel, Bootstrap, AWS)
