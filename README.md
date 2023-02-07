@@ -37,7 +37,7 @@ I am a dreamer, changer, reader, optimizer, dot connector, and 'I am Something o
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 ### Projects That I Was Part Of ...
-1. I was part of the team that created and developed the backend side of the fastest grwoing gaming website in the middle east [La3eb](https://la3eb.com/en-sa). ( Technologies used: Node.js, next.js, Jenkins, React, Redis , Elastic Search, Rabitt MQ, CI/CD, Docker, AWs, MongoDB)
+1. I was part of the team that created and developed the backend side of the fastest growing gaming website in the middle east [La3eb](https://la3eb.com/en-sa). ( Technologies used: Node.js, next.js, Jenkins, React, Redis , Elastic Search, Rabitt MQ, CI/CD, Docker, AWs, MongoDB)
 2. I was part of the team that created and developed the backend side of [Mashro3 Tabkha](https://www.mashrou3-tabkha.com/). ( Technologies used: Node.js, Next.js, Jenkins,  Elastic Search, AWS, Docker, CI/CD)
 3. I was part of developing the fastest delivery service in UAE  [Quiqup](https://www.quiqup.com/). ( Technologies used: Node.js, Next.js, Express, React,CI/CD, Docker, AWs, MongoDB ) 
 4. I was part of developing the PR Agency website [Rebeltech](https://www.rebeltech.io/). ( Technologies used: Node.js, Next.js, Express, React, Redis , MongoDB, Jenkins AWS) 
