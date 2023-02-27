@@ -5,10 +5,7 @@
 
 **About Me:**
 
-I am Yaman, a human being seeking knowledge and looking for an offer that I can't refuse to contribute positively to the changing world through my latest learned technologies, Express, Node.js, and typescript.
-
-I am a Proficient electrical engineer, I graduated in 2019, then, since I care about our planet, I continued my academic journey and studied master of science in renewable energy. 
-Throughout my career, I contributed to positive results through effective positions, especially when I was an outreach coordinator working for an international organization, which helped me upscale my teamwork and communication skills, 
+As a highly enthusiastic JavaScript developer and proficient electrical engineer with a master's degree in energy sciences and technologies, I have had a diverse career in which I gained valuable expertise working in multidisciplinary fields. From IT support to outreach coordinator in an international NGO and chief electrical engineer in the construction industry, I have been driven by a passion for problem-solving and leveraging technology to find and create innovative solutions. This is why I chose to pursue a career as a software developer, as it allows me to combine my expertise in engineering and IT to create scalable and fully responsive web applications. With over 3 years of experience in full-stack development, I have a track record of delivering high-quality results.
 
 I am a dreamer, changer, reader, optimizer, dot connector, and 'I am Something of a Scientist Myself'
 
